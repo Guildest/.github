@@ -1,12 +1,16 @@
-## Hi there 👋
+<center><p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/1017309183416209438/1050009940854587452/logo8.png" alt="amberon_voldi" height="200" width="290" </p><center>
 
-<!--
+## About
+Guildest is a feature rich, fast and efficient Guilded API wrapper. 
+A rich library to interacte with Guilded API written in typescript
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Links
+- [Website]()
+- [Documentation]()
+- [Guide]()
+
+**Want to chat and build a guilded bot with us?**
+**Join our Guilded Server [Here](https://www.guilded.gg/i/kamZgDBk)**
+
+
