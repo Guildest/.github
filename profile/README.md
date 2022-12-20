@@ -1,7 +1,7 @@
 <center><p align="center"><img align="center" src="https://cdn.discordapp.com/attachments/1017309183416209438/1050009940854587452/logo8.png" alt="amberon_voldi" height="200" width="290" </p><center>
 
 ## About
-@guildest/rest is a NPM package for interacting with the Guilded REST API.
+Guilded is feature rich, fast and efficient Guilded API wrapper. A rich library to interacte with Guilded API.
 
 
 ## Links
